@@ -1,0 +1,2 @@
+# git_beginners_guide
+一个关于使用git入门方面的书籍,总结了在git使用中遇到的问题和解决的方案
